@@ -1,0 +1,26 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "repo to testing and pick up the steps of creating a package.json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "for test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anna-li-22/anna-CP02.git"
+  },
+  "keywords": [
+    "testing",
+    "package.json",
+    "via",
+    "npm",
+    "init"
+  ],
+  "author": "anna-li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anna-li-22/anna-CP02/issues"
+  },
+  "homepage": "https://github.com/anna-li-22/anna-CP02#readme"
+}
